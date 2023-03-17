@@ -18,7 +18,7 @@ Hi there! 👋 My name is Gavin Holtzapple, and I'm a Computer Science student a
 - Menus, updates, and nutritional information from ASU's dining halls, delivered to your machine on schedule.
 
 📊 Datafest 2023
-- Coming mid-March. Project TBA.
+- Project TBA.
 
 ## 🧘Past Projects🧘
 
