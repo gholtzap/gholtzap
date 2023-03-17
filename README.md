@@ -20,13 +20,6 @@ Hi there! 👋 My name is Gavin Holtzapple, and I'm a Computer Science student a
 📊 Datafest 2023
 - Coming mid-March. Project TBA.
 
-## 💻 Technical Skills
-
-- **Programming Languages**: Python, Java, Typescript, Javascript, C++, and HTML/CSS
-- **Frameworks and Libraries**: React, Node.js, Django, and Flask
-- **Databases**: MySQL, MongoDB, and PostgreSQL
-- **Tools**: Git, GitHub, Docker, and AWS
-
 ## 🧘Past Projects🧘
 
 ⚔️ Maddness. 
@@ -40,6 +33,20 @@ Hi there! 👋 My name is Gavin Holtzapple, and I'm a Computer Science student a
 
 🧑Personal Site
 - My personal site! A place to tell the world about who I am.
+
+## Professional History
+
+**Research Assistant @ ASU** - Machine Learning / Biophysics
+- Improving vaccines through ML. 
+
+**Teaching Assistant @ ASU** - Computer Science
+- Teaching Java to the next generation of CS students.
+
+**Software Engineer @ Voice Media Group** - Full Stack
+- Automating QA processes using Node / MariaDB.
+
+**Web Developer @ ASU - Marketing Hub**
+- Made thousands of asu.edu websites with raw HTML/CSS, hosted on Drupal.
 
 ## 🌐 Connect With Me
 
