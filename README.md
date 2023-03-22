@@ -2,39 +2,39 @@
 
 👋 My name is Gavin Holtzapple, and I'm a CS student at ASU.
 ***
-## 🎓 Education
+## ❗Education
 ***
 - **Arizona State University (ASU)** - *Bachelor of Science in Computer Science* - Expected Graduation: May 2025
 ***
-## 🚀 Upcoming Projects🚀
+## ❗Upcoming Projects
 ***
-🌊 Flumen
+**Flumen**
 - Conditional task management software to make your day a little bit easier.
 
-📈 Cebu Social 
+**Cebu Social**
 - All-in-one social media statistics & analysis.
 
-🍜 ASU Dining 
+**ASU Dining**
 - Menus, updates, and nutritional information from ASU's dining halls, delivered to your machine on schedule.
 
-📊 Datafest 2023
+**Datafest 2023**
 - Project TBA.
 ***
-## Past Projects
+## ❗Past Projects
 ***
-⚔️ Maddness. 
+**Maddness.**
 - Open-world geographically located video game where you fight in combat against local players and NPCs.
 
-✔️ Backlinks Validator
+**Backlinks Validator**
 - Validates client orders for backlinks and marketing placement.
 
-🔍 Riot Search
+**Riot Search**
 - Web app to search for player info from Riot Games API.
 
-🧑Personal Site
+**Personal Site**
 - My personal site! A place to tell the world about who I am.
 ***
-## Professional History
+## ❗Professional History
 ***
 **Research Assistant @ ASU** - Machine Learning / Biophysics
 - Improving vaccines through ML. 
@@ -50,8 +50,9 @@
 ***
 ## 🌐 Connect With Me
 ***
-- **LinkedIn**: [gholtzap](https://www.linkedin.com/in/gholtzap/)
+- [**Linkedin**](https://www.linkedin.com/in/gholtzap/)
+- [**Email**](mailto:gholtzap@asu.edu)
 
 ---
 
-If you have any questions or would like to discuss a potential collaboration, feel free to reach out to me via email at [your-email@example.com](mailto:your-gholtzap@asu.edu). I'm always excited to meet new people and work on interesting projects! 😊
+
