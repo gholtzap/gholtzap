@@ -1,13 +1,13 @@
 # About Me
 
-Hi there! 👋 My name is Gavin Holtzapple, and I'm a Computer Science student at Arizona State University 🌵. I'm passionate about technology and creating innovative solutions that make a difference in the world. 
-
+👋 My name is Gavin Holtzapple, and I'm a CS student at ASU.
+***
 ## 🎓 Education
-
+***
 - **Arizona State University (ASU)** - *Bachelor of Science in Computer Science* - Expected Graduation: May 2025
-
+***
 ## 🚀 Upcoming Projects🚀
-
+***
 🌊 Flumen
 - Conditional task management software to make your day a little bit easier.
 
@@ -19,9 +19,9 @@ Hi there! 👋 My name is Gavin Holtzapple, and I'm a Computer Science student a
 
 📊 Datafest 2023
 - Project TBA.
-
-## 🧘Past Projects🧘
-
+***
+## Past Projects
+***
 ⚔️ Maddness. 
 - Open-world geographically located video game where you fight in combat against local players and NPCs.
 
@@ -33,9 +33,9 @@ Hi there! 👋 My name is Gavin Holtzapple, and I'm a Computer Science student a
 
 🧑Personal Site
 - My personal site! A place to tell the world about who I am.
-
+***
 ## Professional History
-
+***
 **Research Assistant @ ASU** - Machine Learning / Biophysics
 - Improving vaccines through ML. 
 
@@ -47,9 +47,9 @@ Hi there! 👋 My name is Gavin Holtzapple, and I'm a Computer Science student a
 
 **Web Developer @ ASU - Marketing Hub**
 - Made thousands of asu.edu websites with raw HTML/CSS, hosted on Drupal.
-
+***
 ## 🌐 Connect With Me
-
+***
 - **LinkedIn**: [gholtzap](https://www.linkedin.com/in/gholtzap/)
 
 ---
