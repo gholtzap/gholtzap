@@ -1,6 +1,5 @@
-# About Me
+<h2 style="text-align: center;">👋 Hi! My name is Gavin Holtzapple, and I'm a CS student at ASU.</h2>
 
-👋 My name is Gavin Holtzapple, and I'm a CS student at ASU.
 ***
 ## ❗Education
 ***
