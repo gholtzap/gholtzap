@@ -34,33 +34,25 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 
 ### Upcoming Projects:
-Flumen
-
-- Conditional task management software to make your day a little bit easier.
-Cebu Social
-
-- All-in-one social media statistics & analysis.
-ASU Dining
-
-- Menus, updates, and nutritional information from ASU's dining halls, delivered to your machine on schedule.
-Datafest 2023
-
-- Project TBA.
+- Flumen
+    - Conditional task management software to make your day a little bit easier.
+- Cebu Social
+    - All-in-one social media statistics & analysis.
+- ASU Dining
+    - Menus, updates, and nutritional information from ASU's dining halls, delivered to your machine on schedule.
+- Datafest 2023
+    - Mapping the Meltdown: Analyzing the effects of incomes and foreclosures across the USA.
 
 ### Past Projects:
 
-Maddness.
-
-- Open-world geographically located video game where you fight in combat against local players and NPCs.
-Backlinks Validator
-
-- Validates client orders for backlinks and marketing placement.
-Riot Search
-
-- Web app to search for player info from Riot Games API.
-Personal Site
-
-- My personal site! A place to tell the world about who I am.
+- Maddness.
+    - Open-world geographically located video game where you fight in combat against local players and NPCs.<br>
+- Backlinks Validator
+    - Validates client orders for backlinks and marketing placement.<br>
+- Riot Search
+    - Web app to search for player info from Riot Games API.<br>
+- Personal Site
+    - My personal site! A place to tell the world about who I am.
 
 ### Professional History:
 - Research Assistant @ ASU - Machine Learning / Biophysics
