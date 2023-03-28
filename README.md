@@ -64,7 +64,6 @@ Personal Site
 
 ### Professional History:
 - Research Assistant @ ASU - Machine Learning / Biophysics
-- Improving vaccines through ML.
 - Teaching Assistant @ ASU - Computer Science
 - Software Engineer @ Voice Media Group - Full Stack
 - Web Developer @ ASU - Marketing Hub
