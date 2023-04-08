@@ -40,11 +40,13 @@
     - All-in-one social media statistics & analysis.
 - ASU Dining
     - Menus, updates, and nutritional information from ASU's dining halls, delivered to your machine on schedule.
-- Datafest 2023
-    - Mapping the Meltdown: Analyzing the effects of incomes and foreclosures across the USA.
+- EducateHacks 2023
+    - Generate practice quizzes for content within seconds using AI.
 
 ### Past Projects:
 
+- Datafest 2023
+    - Mapping the Meltdown: Analyzing the effects of incomes and foreclosures across the USA.
 - Maddness.
     - Open-world geographically located video game where you fight in combat against local players and NPCs.<br>
 - Backlinks Validator
