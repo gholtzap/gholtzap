@@ -40,11 +40,13 @@
     - All-in-one social media statistics & analysis.
 - ASU Dining
     - Menus, updates, and nutritional information from ASU's dining halls, delivered to your machine on schedule.
-- EducateHacks 2023
-    - Generate practice quizzes for content within seconds using AI.
+- GPT Speed Tests
+    - Analyze & visualize different gpt api models to find their strengths & weaknesses.
 
 ### Past Projects:
 
+- EducateHacks 2023
+    - Generate practice quizzes for content within seconds using AI.
 - Datafest 2023
     - Mapping the Meltdown: Analyzing the effects of incomes and foreclosures across the USA.
 - Maddness.
