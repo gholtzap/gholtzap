@@ -5,7 +5,7 @@
 ## LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gholtzap/) 
 
-## Tech I Use
+## Tech I Use:
 <h3> Languages </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -34,10 +34,8 @@
     - Turn any piece of text into a visual novel, harnessing the ChatGPT and DALL-E APIs!
 - Flumen
     - Conditional task management software to make your day a little bit easier.
-- Cebu Social
-    - All-in-one social media statistics & analysis.
-- ASU Dining
-    - Menus, updates, and nutritional information from ASU's dining halls, delivered to your machine on schedule.
+- Ditch the Starbucks
+    - Enter how much money you spend on coffee daily, and you can see how much money you'll be able to save via investments.
 
 ### Past Projects:
 - GPT Speed Tests
@@ -54,6 +52,10 @@
     - Web app to search for player info from Riot Games API.<br>
 - Personal Site
     - My personal site! A place to tell the world about who I am.
+- Cebu Social
+    - All-in-one social media statistics & analysis.
+- ASU Dining
+    - Menus, updates, and nutritional information from ASU's dining halls, delivered to your machine on schedule.
 
 ### Professional History:
 - Software Engineer @ Cigna | Full Stack <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
