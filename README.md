@@ -5,10 +5,6 @@
 ## LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gholtzap/) 
 
-## Favorite Quote: 
-
-“Any intelligent fool can make things bigger and more complex. It takes a touch of genius - and a lot of courage - to move in the opposite direction.”
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- *E. F. Schumacher*
 ## Tech I Use
 <h3> Languages </h3>
 
@@ -34,6 +30,8 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 
 ### Upcoming Projects:
+- Fablr
+    - Turn any piece of text into a visual novel, harnessing the ChatGPT and DALL-E APIs!
 - Flumen
     - Conditional task management software to make your day a little bit easier.
 - Cebu Social
