@@ -1,9 +1,13 @@
 [![](https://visitcount.itsvg.in/api?id=gholtzap&icon=8&color=6)](https://visitcount.itsvg.in)
 ## About Me:
-👋 Hi! My name is Gavin Holtzapple, and I'm a CS student at ASU.
+👋 Hi! My name is Gavin Holtzapple, and I'm a CS student at ASU. <a href="https://gholtzap.github.io/" target="_blank">Visit my portfolio website</a> to learn more!
+
 
 ## LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gholtzap/) 
+<a href="https://www.linkedin.com/in/gholtzap/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 
 ## Tech I Use:
 <h3> Languages </h3>
