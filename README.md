@@ -38,10 +38,9 @@
     - Turn any piece of text into a visual novel, harnessing the ChatGPT and DALL-E APIs!
 - Flumen
     - Conditional task management software to make your day a little bit easier.
+### Past Projects:
 - Ditch the Starbucks
     - Enter how much money you spend on coffee daily, and you can see how much money you'll be able to save via investments.
-
-### Past Projects:
 - GPT Speed Tests
     - Analyze & visualize different gpt api models to find their strengths & weaknesses.
 - EducateHacks 2023
