@@ -34,11 +34,13 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 
 ### Upcoming Projects:
-- Fablr
-    - Turn any piece of text into a visual novel, harnessing the ChatGPT and DALL-E APIs!
+- Ebay ML Competition Summer 2023
+    - Under NDA, but our project is great I promise!
 - Flumen
     - Conditional task management software to make your day a little bit easier.
 ### Past Projects:
+- Fablr
+    - Turn any piece of text into a visual novel, harnessing the ChatGPT and DALL-E APIs!
 - Ditch the Starbucks
     - Enter how much money you spend on coffee daily, and you can see how much money you'll be able to save via investments.
 - GPT Speed Tests
