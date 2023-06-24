@@ -36,6 +36,8 @@
 ### Upcoming Projects:
 - Ebay ML Competition Summer 2023
     - Under NDA, but our project is great I promise!
+- Kingston Investments
+    - Investing software for the average investor. Pick the tickers you're interested in, and the software does the rest :)
 - Flumen
     - Conditional task management software to make your day a little bit easier.
 ### Past Projects:
