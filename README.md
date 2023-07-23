@@ -1,4 +1,21 @@
 [![](https://visitcount.itsvg.in/api?id=gholtzap&icon=8&color=6)](https://visitcount.itsvg.in)
+
+<div align="center" >
+<div  style="display: inline-flex; align-items: center;">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gholtzap&count_private=true&layout=compact&show_icons=true&hide_border=true&theme=prussian&border_radius=15&width=325&line_height=20" />
+</a>
+
+<hl/>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gholtzap&layout=compact&theme=prussian&&langs_count=6&hide_border=true&border_radius=15&" />
+</a>
+
+</div>
+</div>
+
 ## About Me:
 👋 Hi! My name is Gavin Holtzapple, and I'm a CS student at ASU. <a href="https://gholtzap.github.io/" target="_blank">Visit my portfolio website</a> to learn more!
 
@@ -71,10 +88,5 @@
 - Research Assistant @ ASU | Machine Learning & Biophysics <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 - Teaching Assistant @ ASU | Data Structures & Algorithms <br> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - Web Developer @ ASU <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
-### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gholtzap&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gholtzap&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gholtzap&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
