@@ -77,10 +77,10 @@ Web Developer @ ASU <br><br> ![JavaScript](https://img.shields.io/badge/javascri
 <br>
 
 ### Upcoming Projects:
-- Ebay ML Competition Summer 2023
-    - Under NDA, but our project is great I promise!
 - Kingston Investments
-    - Investing software for the average investor. Pick the tickers you're interested in, and the software does the rest :)
+    - My under-the-hood stock market strategies and tools that I use for investing
+- Theta
+    - Webapp version of Kingston Investments available to the public. Puts the user-friendly tools on display for their use.
 - Flumen
     - Conditional task management software to make your day a little bit easier.
 ### Past Projects:
