@@ -17,7 +17,7 @@
 </div>
 
 ## About Me:
-👋 Hi! My name is Gavin Holtzapple, and I'm a CS student at ASU. <a href="https://gholtzap.github.io/" target="_blank">Visit my portfolio website</a> to learn more!
+👋 Hi! My name is Gavin Holtzapple, and I'm a CS student at ASU. <a href="https://gholtzap.vercel.app/" target="_blank">Visit my portfolio website</a> to learn more!
 
 
 ## LinkedIn:
